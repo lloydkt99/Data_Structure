@@ -10,5 +10,5 @@
 # 課程筆記區
 
 # 作業區
-
+[Prefix Sum](https://youtu.be/AjaG2y2LNvc)
 # 專題區
