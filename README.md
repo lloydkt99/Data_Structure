@@ -11,4 +11,5 @@
 
 # 作業區
 [Prefix Sum](https://youtu.be/AjaG2y2LNvc) & [String](https://youtu.be/_LoXGAfLJs8)
+[Greedy](https://youtu.be/Oz40n7-SGwI)
 # 專題區
