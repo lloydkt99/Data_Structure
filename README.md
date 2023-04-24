@@ -11,5 +11,6 @@
 
 # 作業區
 [Prefix Sum](https://youtu.be/AjaG2y2LNvc) & [String](https://youtu.be/_LoXGAfLJs8)\
-[Greedy](https://youtu.be/Oz40n7-SGwI) & [Tree](https://youtu.be/7H7P6EEKKpg)
+[Greedy](https://youtu.be/Oz40n7-SGwI) & [Tree](https://youtu.be/7H7P6EEKKpg)\
+[Binary Search](https://youtu.be/MvKXIKoH-Xk)
 # 專題區
