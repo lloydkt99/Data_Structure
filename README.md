@@ -10,8 +10,10 @@
 # 課程筆記區
 
 # 作業區
-[Prefix Sum](https://youtu.be/AjaG2y2LNvc) & [String](https://youtu.be/_LoXGAfLJs8)\
-[Greedy](https://youtu.be/Oz40n7-SGwI) & [Tree](https://youtu.be/7H7P6EEKKpg)\
-[Binary Search](https://youtu.be/MvKXIKoH-Xk)\
-[Graph/BFS/DFS](https://youtu.be/e1NfmOhYwww)
+HW1 [Prefix Sum](https://youtu.be/AjaG2y2LNvc) & [String](https://youtu.be/_LoXGAfLJs8)\
+HW2 [Greedy](https://youtu.be/Oz40n7-SGwI) & [Tree](https://youtu.be/7H7P6EEKKpg)\
+HW3 [Binary Search](https://youtu.be/MvKXIKoH-Xk)\
+HW4 [Graph/BFS/DFS](https://youtu.be/e1NfmOhYwww)\
+HW5 [Stack](https://youtu.be/K9FcQNLvVLg) & [Heap]
+
 # 專題區
