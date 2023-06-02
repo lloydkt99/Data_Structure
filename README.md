@@ -14,6 +14,6 @@ HW1 [Prefix Sum](https://youtu.be/AjaG2y2LNvc) & [String](https://youtu.be/_LoXG
 HW2 [Greedy](https://youtu.be/Oz40n7-SGwI) & [Tree](https://youtu.be/7H7P6EEKKpg)\
 HW3 [Binary Search](https://youtu.be/MvKXIKoH-Xk)\
 HW4 [Graph/BFS/DFS](https://youtu.be/e1NfmOhYwww)\
-HW5 [Stack](https://youtu.be/K9FcQNLvVLg) & [Heap]
+HW5 [Stack](https://youtu.be/K9FcQNLvVLg) & [Heap](https://youtu.be/d_VMD8B1l08)
 
 # 專題區
